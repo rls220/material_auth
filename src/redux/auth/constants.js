@@ -1,0 +1,6 @@
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAILED = 'LOGIN_USER_FAILED';
+export const LOGOUT = 'LOGOUT';
+export const RESET_MESSAGE_ERROR = 'RESET_MESSAGE_ERROR';
+
