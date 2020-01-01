@@ -18,7 +18,7 @@ export function configureFakeBackend() {
 					if (filteredUsers.length) {
 						// fake jwt token
 						let responseJson = {
-							jwt: '86',
+							jwt: '86fasfgfsogHGad',
 						};
 						resolve({ ok: true, json: () => responseJson });
 					} else {
